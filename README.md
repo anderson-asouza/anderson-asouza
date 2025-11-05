@@ -4,8 +4,6 @@ Sou desenvolvedor Full-Stack com mais de 10 anos de experiência, desenvolviment
 
 Domino **arquitetura MVC**, práticas de **Clean Code** e os princípios **SOLID**, aplicando-os em projetos que envolvem **integração de sistemas, aplicações corporativas** e **análise de dados** voltada à geração de insights.
 
-Tenho familiaridade com **bancos de dados SQL Server, servidores Linux, sistemas ERP** e metodologias ágeis (Scrum e Kanban). Meu foco é **entregar soluções completas, estáveis e escaláveis**, com código limpo, bem estruturado e de alta qualidade.
-
 > “Sou movido por desafios técnicos e pela busca constante de aprimorar a performance e a experiência do usuário.”
 
 
