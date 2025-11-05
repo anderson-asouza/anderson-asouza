@@ -6,24 +6,26 @@ Domino **arquitetura MVC**, práticas de **Clean Code** e os princípios **SOLID
 
 > “Sou movido por desafios técnicos e pela busca constante de aprimorar a performance e a experiência do usuário.”
 
-
 ---
 
 ## 🚀 Skills
 ![C#](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net) 
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📂 Projetos em Destaque
 
 ### 💻 Sistema Tarefas API
-![.NET](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net)
+![C#](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net) 
 ![API](https://img.shields.io/badge/API-RESTful-blue?style=flat-square)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **Descrição:** API RESTful robusta para gerenciamento de tarefas, com autenticação JWT, migrations e middlewares. Base sólida para front-end e automações.
 **Link:** [Repositório](https://github.com/anderson-asouza/sistema-tarefas-api)
