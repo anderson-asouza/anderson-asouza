@@ -1,4 +1,4 @@
-# Olá, eu sou Nome Sobrenome 👋
+# Olá, eu sou Anderson Souza 👋
 
 Sou desenvolvedor Full-Stack com mais de 10 anos de experiência, desenvolvimento de **APIs RESTful** robustas. Tenho sólida experiência em automação de testes e tarefas com Selenium e no **desenvolvimento front-end com React.js** para aplicações multiplataforma.
 
@@ -28,7 +28,7 @@ Tenho familiaridade com **bancos de dados SQL Server, servidores Linux, sistemas
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=flat-square)
 
 **Descrição:** API RESTful robusta para gerenciamento de tarefas, com autenticação JWT, migrations e middlewares. Base sólida para front-end e automações.
-**Link:** [Repositório](https://github.com/nome-asobrenome/sistema-tarefas-api)
+**Link:** [Repositório](https://github.com/anderson-asouza/sistema-tarefas-api)
 
 ---
 
@@ -38,7 +38,7 @@ Tenho familiaridade com **bancos de dados SQL Server, servidores Linux, sistemas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Descrição:** Front-end em React.js para acessar a API do Sistema Tarefas. Interface moderna, multiplataforma e responsiva, integrando todos os fluxos do sistema.
-**Link:** [Repositório](https://github.com/nome-asobrenome/sistema-tarefas-react)
+**Link:** [Repositório](https://github.com/anderson-asouza/sistema-tarefas-react)
 
 ### 🗂 Sistema Tarefas Automação ![Status](https://img.shields.io/badge/Status-Em%20Breve-yellow?style=flat-square)
 
