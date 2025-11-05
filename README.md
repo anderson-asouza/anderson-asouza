@@ -1,14 +1,15 @@
-# Olá, eu sou Anderson Souza 👋
+# Anderson Souza 👋
 
 Sou desenvolvedor Full-Stack com mais de 10 anos de experiência, desenvolvimento de **APIs RESTful** robustas. Tenho sólida experiência em automação de testes e tarefas com Selenium e no **desenvolvimento front-end com React.js** para aplicações multiplataforma.
 
-Domino **arquitetura MVC**, práticas de **Clean Code** e os princípios **SOLID**, aplicando-os em projetos que envolvem **integração de sistemas, aplicações corporativas** e **análise de dados** voltada à geração de insights.
+Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC**, práticas de **Clean Code** e os princípios **SOLID**, aplicando-os em projetos que envolvem **integração de sistemas, aplicações corporativas** e **análise de dados** voltada à geração de insights.
 
 > “Sou movido por desafios técnicos e pela busca constante de aprimorar a performance e a experiência do usuário.”
 
 ---
 
-## 🚀 Skills
+ 🚀 **Skills**
+
 ![C#](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net) 
 ![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -27,7 +28,8 @@ Domino **arquitetura MVC**, práticas de **Clean Code** e os princípios **SOLID
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-**Descrição:** API RESTful robusta para gerenciamento de tarefas, com autenticação JWT, migrations e middlewares. Base sólida para front-end e automações.
+**Descrição:** API RESTful robusta para gerenciamento de tarefas, com autenticação JWT, migrations e middlewares. API Base para **Sistema Tarefas Frontend** [React.js](https://github.com/anderson-asouza/sistema-tarefas-react) e **Sistema Tarefas Automação** [Selenium](https://github.com/anderson-asouza/).
+
 **Link:** [Repositório](https://github.com/anderson-asouza/sistema-tarefas-api)
 
 ---
