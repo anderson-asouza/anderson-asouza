@@ -22,7 +22,7 @@ Tenho familiaridade com **bancos de dados SQL Server, servidores Linux, sistemas
 
 ## 📂 Projetos em Destaque
 
-### Sistema Tarefas API
+### 💻 Sistema Tarefas API
 ![.NET](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net)
 ![API](https://img.shields.io/badge/API-RESTful-blue?style=flat-square)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=flat-square)
@@ -32,7 +32,7 @@ Tenho familiaridade com **bancos de dados SQL Server, servidores Linux, sistemas
 
 ---
 
-### Sistema Tarefas FrontEnd
+### 💻 Sistema Tarefas FrontEnd
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Web](https://img.shields.io/badge/FrontEnd-blue?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -40,7 +40,9 @@ Tenho familiaridade com **bancos de dados SQL Server, servidores Linux, sistemas
 **Descrição:** Front-end em React.js para acessar a API do Sistema Tarefas. Interface moderna, multiplataforma e responsiva, integrando todos os fluxos do sistema.
 **Link:** [Repositório](https://github.com/anderson-asouza/sistema-tarefas-react)
 
-### 🗂 Sistema Tarefas Automação ![Status](https://img.shields.io/badge/Status-Em%20Breve-yellow?style=flat-square)
+---
+
+### 💻 Sistema Tarefas Automação ![Status](https://img.shields.io/badge/Status-Em%20Breve-yellow?style=flat-square)
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
@@ -52,7 +54,6 @@ Tenho familiaridade com **bancos de dados SQL Server, servidores Linux, sistemas
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-asouza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-asouza&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anderson-asouza&theme=radical)
 
 ---
 
