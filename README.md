@@ -8,8 +8,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 
 ---
 
- 🚀 **Skills**
-
+### 🚀 Skills
 ![C#](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net) 
 ![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
