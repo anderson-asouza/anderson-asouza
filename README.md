@@ -4,7 +4,10 @@ Sou desenvolvedor Full-Stack com mais de 10 anos de experiência, desenvolviment
 
 Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC**, práticas de **Clean Code** e os princípios **SOLID**, aplicando-os em projetos que envolvem **integração de sistemas, aplicações corporativas** e **análise de dados** voltada à geração de insights.
 
-> “Sou movido por desafios técnicos e pela busca constante de aprimorar a performance e a experiência do usuário.”
+<blockquote style="margin-left: 40px">
+“Sou movido por desafios técnicos e pela busca constante de aprimorar a performance e a experiência do usuário.”
+</blockquote>
+
 
 ---
 
