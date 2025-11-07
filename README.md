@@ -35,8 +35,8 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 
 ### 💻 Sistema Tarefas FrontEnd
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Web](https://img.shields.io/badge/FrontEnd-blue?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Web](https://img.shields.io/badge/FrontEnd-blue?style=flat-square&logo=html5&logoColor=white)
 
 **Descrição:** Front-end em React.js para acessar a API do Sistema Tarefas. Interface moderna, multiplataforma e responsiva, integrando todos os fluxos do sistema.
 **Link:** [Repositório](https://github.com/anderson-asouza/sistema-tarefas-react)
