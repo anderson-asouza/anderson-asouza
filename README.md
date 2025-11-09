@@ -52,7 +52,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-asouza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-asouza&layout=compact&theme=radical)
 
