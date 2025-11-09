@@ -33,7 +33,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 
 ---
 
-### 💻 Sistema Tarefas FrontEnd
+### 💻 Sistema Tarefas FrontEnd em React
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Web](https://img.shields.io/badge/FrontEnd-blue?style=flat-square&logo=html5&logoColor=white)
