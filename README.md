@@ -11,11 +11,11 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 ### 🚀 Skills
 ![C#](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net) 
 ![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-297917?style=flat-square&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-297917?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -33,10 +33,10 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 
 ---
 
-### 💻 Sistema Tarefas FrontEnd em React
+### 💻 Sistema Tarefas Frontend em React
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Web](https://img.shields.io/badge/FrontEnd-blue?style=flat-square&logo=html5&logoColor=white)
+![Web](https://img.shields.io/badge/Frontend-blue?style=flat-square&logo=html5&logoColor=white)
 
 **Descrição:** Front-end em React.js para acessar a API do Sistema Tarefas. Interface moderna, multiplataforma e responsiva, integrando todos os fluxos do sistema.
 **Link:** [Repositório](https://github.com/anderson-asouza/sistema-tarefas-react)
@@ -44,8 +44,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 ---
 
 ### 💻 Sistema Tarefas Automação ![Status](https://img.shields.io/badge/Status-Em%20Breve-yellow?style=flat-square)
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-297917?style=flat-square&logo=selenium&logoColor=white)
 
 **Descrição:** Robot com Selenium que interage com a API do Sistema Tarefas. Automação de testes e tarefas repetitivas, garantindo confiabilidade e eficiência.
 **Link:** [Repositório](https://github.com/anderson-asouza/)
