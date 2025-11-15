@@ -44,6 +44,14 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 
 ---
 
+### 💻 Dashboard Educação, Internet e Renda
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
+
+**Descrição:** Dashboard interativo inspirado na pesquisa TIC Domicílios e nos censos do IBGE. Inclui mapas com análise espacial e aplicação de regressão linear para tendências.
+**Link:** [Repositório](https://github.com/anderson-asouza/dash-educacao-internet-renda)
+
+---
+
 ### 💻 Sistema Tarefas Automação ![Status](https://img.shields.io/badge/Status-Em%20Breve-yellow?style=flat-square)
 ![Selenium](https://img.shields.io/badge/Selenium-297917?style=flat-square&logo=selenium&logoColor=white)
 
