@@ -35,8 +35,6 @@ Formado em **Análise e Desenvolvimento de Sistemas**, domino **arquitetura MVC*
 
 ### 💻 Sistema Tarefas Frontend em React
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Descrição:** Front-end em React.js para acessar a API do Sistema Tarefas. Interface moderna, multiplataforma e responsiva, integrando todos os fluxos do sistema.
