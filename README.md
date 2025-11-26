@@ -31,7 +31,7 @@ Também possuo experiência com servidores Linux.
 
 **Descrição:** Dashboard interativo inspirado na pesquisa TIC Domicílios e nos censos do IBGE. Inclui mapas com análise espacial e aplicação de regressão linear para tendências.
 
-[![Preview da API](https://raw.githubusercontent.com/anderson-asouza/dash-educacao-internet-renda/main/dashboardEducacao.png)](https://github.com/anderson-asouza/dash-educacao-internet-renda)
+[![Preview do Dashboard](https://raw.githubusercontent.com/anderson-asouza/dash-educacao-internet-renda/main/dashboardEducacao.png)](https://github.com/anderson-asouza/dash-educacao-internet-renda)
 
 ---
 
@@ -41,7 +41,7 @@ Também possuo experiência com servidores Linux.
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-**Descrição:** API RESTful robusta para gerenciamento para o Ecossistema — Sistema Tarefas, com autenticação JWT, migrations e middlewares. API Base para **Sistema Tarefas Frontend** [React.js](https://github.com/anderson-asouza/sistema-tarefas-react) e **Sistema Tarefas Automação** [Selenium](https://github.com/anderson-asouza/sistema-tarefas-robot).
+**Descrição:** API RESTful robusta para gerenciamento para o Ecossistema — Sistema Tarefas, com autenticação JWT, migrations e middlewares. API Base para **Sistema Tarefas Frontend** [React.js](https://github.com/anderson-asouza/sistema-tarefas-frontendweb) e **Sistema Tarefas Automação** [Selenium](https://github.com/anderson-asouza/sistema-tarefas-robot).
 
 [![Preview da API](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-api/main/sistemaTarefasAPI.png)](https://github.com/anderson-asouza/sistema-tarefas-api)
 
@@ -55,7 +55,7 @@ Também possuo experiência com servidores Linux.
 
 **Descrição:** Front-end em React.js para acessar a API do Ecossistema — Sistema Tarefas. Interface moderna, multiplataforma e responsiva, integrando todos os fluxos do sistema.
 
-[![Preview da API](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-react/main/sistemaTarefasFrontendWeb.png)](https://github.com/anderson-asouza/sistema-tarefas-react)
+[![Preview do Frontend](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-frontendweb/main/sistemaTarefasFrontendWeb.png)](https://github.com/anderson-asouza/sistema-tarefas-frontendweb)
 
 ---
 
@@ -65,7 +65,7 @@ Também possuo experiência com servidores Linux.
 
 **Descrição:** Robot com Selenium que interage com o Frontend web do Ecossistema — Sistema Tarefas. Automação de testes e processos, garantindo confiabilidade e eficiência.
 
-[![Preview da API](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-robot/main/SistemaTarefas-Robot/img/sistemaTarefasRobot.png)](https://github.com/anderson-asouza/sistema-tarefas-robot)
+[![Preview do Robot](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-robot/main/SistemaTarefas-Robot/img/sistemaTarefasRobot.png)](https://github.com/anderson-asouza/sistema-tarefas-robot)
 
 ---
 
