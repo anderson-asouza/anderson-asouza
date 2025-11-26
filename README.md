@@ -1,6 +1,6 @@
 # Anderson Souza 👋
 
-Sou desenvolvedor Full-Stack, formado em Análise e Desenvolvimento de Sistemas, com mais de 10 anos de experiência na área, criando **APIs RESTful** robustas, projetos que envolvem integração de sistemas e aplicações corporativas. Atuações multiplataforma, Frontend em **React.js**, criação de aplicativos mobile, automação de testes e tarefas com **Selenium**. Análise de dados voltada à geração de insights.
+Sou desenvolvedor **Full-Stack**, formado em Análise e Desenvolvimento de Sistemas, com mais de 10 anos de experiência na área, criando **APIs RESTful** robustas, projetos que envolvem integração de sistemas e aplicações corporativas. Atuações multiplataforma, Frontend em **React.js**, criação de aplicativos mobile, automação de testes e tarefas com **Selenium**. Análise de dados voltada à geração de insights.
 
 Domino **arquitetura MVC**, boas práticas do **Clean Code** e do **SOLID**, aplicando-os em projetos que envolvem integração de sistemas e aplicações corporativas.
 
@@ -25,6 +25,16 @@ Também possuo experiência com servidores Linux.
 
 ## 📂 Projetos em Destaque
 
+
+### 💻 Dashboard Educação, Internet e Renda
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
+
+**Descrição:** Dashboard interativo inspirado na pesquisa TIC Domicílios e nos censos do IBGE. Inclui mapas com análise espacial e aplicação de regressão linear para tendências.
+
+[![Preview da API](https://raw.githubusercontent.com/anderson-asouza/dash-educacao-internet-renda/main/dashboardEducacao.png)](https://github.com/anderson-asouza/dash-educacao-internet-renda)
+
+---
+
 ### 💻 Sistema Tarefas — API
 ![C#](https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=.net) 
 ![API](https://img.shields.io/badge/API-RESTful-blue?style=flat-square)
@@ -39,6 +49,8 @@ Também possuo experiência com servidores Linux.
 
 ### 💻 Sistema Tarefas — Frontend Web
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Descrição:** Front-end em React.js para acessar a API do Ecossistema — Sistema Tarefas. Interface moderna, multiplataforma e responsiva, integrando todos os fluxos do sistema.
@@ -54,15 +66,6 @@ Também possuo experiência com servidores Linux.
 **Descrição:** Robot com Selenium que interage com o Frontend web do Ecossistema — Sistema Tarefas. Automação de testes e processos, garantindo confiabilidade e eficiência.
 
 [![Preview da API](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-robot/main/SistemaTarefas-Robot/img/sistemaTarefasRobot.png)](https://github.com/anderson-asouza/sistema-tarefas-robot)
-
----
-
-### 💻 Dashboard Educação, Internet e Renda
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
-
-**Descrição:** Dashboard interativo inspirado na pesquisa TIC Domicílios e nos censos do IBGE. Inclui mapas com análise espacial e aplicação de regressão linear para tendências.
-
-[![Preview da API](https://raw.githubusercontent.com/anderson-asouza/dash-educacao-internet-renda/main/dashboardEducacao.png)](https://github.com/anderson-asouza/dash-educacao-internet-renda)
 
 ---
 
