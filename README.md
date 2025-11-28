@@ -65,7 +65,7 @@ Também possuo experiência com servidores Linux.
 
 **Descrição:** Robot com Selenium que interage com o Frontend web do Ecossistema — Sistema Tarefas. Automação de testes e processos, garantindo confiabilidade e eficiência.
 
-[![Preview do Robot](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-robot/main/SistemaTarefas-Robot/fotos/sistemaTarefasRobot.png)](https://github.com/anderson-asouza/sistema-tarefas-robot)
+[![Preview do Robot](https://raw.githubusercontent.com/anderson-asouza/sistema-tarefas-robot/main/fotos/sistemaTarefasRobot.png)](https://github.com/anderson-asouza/sistema-tarefas-robot)
 
 ---
 
