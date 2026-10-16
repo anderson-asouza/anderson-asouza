@@ -70,10 +70,17 @@ Também possuo experiência com servidores Linux.
 ---
 
 ## 📊 Estatísticas GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-asouza&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderson-asouza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-asouza&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Contato
-[💼 Portfolio](https://anderson-asouza.github.io) | [LinkedIn](https://linkedin.com/in/anderson-asouza)
+🌐 Contato
+
+<a href="https://anderson-asouza.github.io">
+<img src="https://cdn.simpleicons.org/github/181717" width="20" alt="GitHub" /> Portfólio
+</a>
+&nbsp; | &nbsp;
+<a href="https://linkedin.com/in/anderson-asouza">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20" alt="LinkedIn" /> LinkedIn
+</a>
