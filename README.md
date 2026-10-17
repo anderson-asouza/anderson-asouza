@@ -75,12 +75,15 @@ Também possuo experiência com servidores Linux.
 
 ---
 
-🌐 Contato
 
-<a href="https://anderson-asouza.github.io">
-<img src="https://cdn.simpleicons.org/github/181717" width="20" alt="GitHub" /> Portfólio
-</a>
-&nbsp; | &nbsp;
-<a href="https://linkedin.com/in/anderson-asouza">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20" alt="LinkedIn" /> LinkedIn
-</a>
+## 🌐 Contato
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-asouza/)
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-181717?style=flat-square&logo=github&logoColor=white)](https://anderson-asouza.github.io)
+
+ 
+
+
+
