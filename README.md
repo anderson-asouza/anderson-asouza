@@ -8,7 +8,7 @@ Domino **arquitetura MVC**, boas práticas do **Clean Code** e do **SOLID**, apl
 
 Tenho familiaridade com sistemas ERP, metodologias ágeis (Scrum e Kanban). Meu foco é **entregar soluções completas, estáveis e escaláveis**, com código limpo, bem estruturado e de alta qualidade.
 
-Possuo experiência atuando com servidores Linux.
+Possuo experiência trabalhando com servidores Linux.
 
 
 
