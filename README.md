@@ -1,6 +1,6 @@
 # Anderson Souza 👋
 
-Sou desenvolvedor Full-Stack, formado em Análise e Desenvolvimento de Sistemas, com mais de 10 anos de experiência na área. Também atuo como professor universitário e palestrante, compartilhando conhecimentos e experiências.
+Sou desenvolvedor **Full-Stack**, formado em **Análise e Desenvolvimento de Sistemas**, com mais de 10 anos de experiência na área. Também atuo como **professor universitário** e **palestrante**, compartilhando conhecimentos e experiências.
 
 **APIs RESTful** robustas, projetos que envolvem integração de sistemas e aplicações corporativas. Atuações multiplataforma, Frontend, criação de aplicativos mobile, automação de testes e tarefas. Análise de dados voltada à geração de insights.
 
@@ -9,7 +9,6 @@ Domino **arquitetura MVC**, boas práticas do **Clean Code** e do **SOLID**, apl
 Tenho familiaridade com sistemas ERP, metodologias ágeis (Scrum e Kanban). Meu foco é **entregar soluções completas, estáveis e escaláveis**, com código limpo, bem estruturado e de alta qualidade.
 
 Também possuo experiência atuando com servidores Linux.
-
 
 
 
